@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{96801BF6-B46A-4905-B944-EA94436EED18}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.FreezeDanceTouring.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="13" Column="24" />
+      <File FileName="README.md" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FreezeDanceTouring.MVC" expanded="True">
+            <Node name="FreezeDanceTouring.MVC" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

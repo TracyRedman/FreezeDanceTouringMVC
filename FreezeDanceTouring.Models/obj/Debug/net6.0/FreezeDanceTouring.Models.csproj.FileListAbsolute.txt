@@ -1,0 +1,15 @@
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/bin/Debug/net6.0/FreezeDanceTouring.Models.deps.json
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/bin/Debug/net6.0/FreezeDanceTouring.Models.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/bin/Debug/net6.0/FreezeDanceTouring.Models.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/bin/Debug/net6.0/FreezeDanceTouring.Data.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/bin/Debug/net6.0/FreezeDanceTouring.Data.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/obj/Debug/net6.0/FreezeDanceTouring.Models.csproj.AssemblyReference.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/obj/Debug/net6.0/FreezeDanceTouring.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/obj/Debug/net6.0/FreezeDanceTouring.Models.AssemblyInfoInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/obj/Debug/net6.0/FreezeDanceTouring.Models.AssemblyInfo.cs
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/obj/Debug/net6.0/FreezeDanceTouring.Models.csproj.CoreCompileInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/obj/Debug/net6.0/FreezeDanceTouring.Models.csproj.CopyComplete
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/obj/Debug/net6.0/FreezeDanceTouring.Models.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/obj/Debug/net6.0/refint/FreezeDanceTouring.Models.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/obj/Debug/net6.0/FreezeDanceTouring.Models.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Models/obj/Debug/net6.0/ref/FreezeDanceTouring.Models.dll

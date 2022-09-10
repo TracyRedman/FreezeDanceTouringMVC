@@ -1,0 +1,14 @@
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/bin/Debug/net6.0/FreezeDanceTouring.Data.deps.json
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/bin/Debug/net6.0/FreezeDanceTouring.Data.runtimeconfig.json
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/bin/Debug/net6.0/FreezeDanceTouring.Data.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/bin/Debug/net6.0/FreezeDanceTouring.Data.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/obj/Debug/net6.0/FreezeDanceTouring.Data.csproj.AssemblyReference.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/obj/Debug/net6.0/FreezeDanceTouring.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/obj/Debug/net6.0/FreezeDanceTouring.Data.AssemblyInfoInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/obj/Debug/net6.0/FreezeDanceTouring.Data.AssemblyInfo.cs
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/obj/Debug/net6.0/FreezeDanceTouring.Data.csproj.CoreCompileInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/obj/Debug/net6.0/FreezeDanceTouring.Data.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/obj/Debug/net6.0/refint/FreezeDanceTouring.Data.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/obj/Debug/net6.0/FreezeDanceTouring.Data.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/obj/Debug/net6.0/FreezeDanceTouring.Data.genruntimeconfig.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Data/obj/Debug/net6.0/ref/FreezeDanceTouring.Data.dll

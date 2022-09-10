@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FreezeDanceTouring.Data\FreezeDanceTouring.Data.csproj" />
+    <ProjectReference Include="..\FreezeDanceTouring.Models\FreezeDanceTouring.Models.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="ArtistService\" />
+    <None Remove="ShowService\" />
+    <None Remove="TicketService\" />
+    <None Remove="TourService\" />
+    <None Remove="VenueService\" />
+    <None Remove="AgentService\" />
+    <None Remove="Microsoft.AspNetCore.Mvc.ViewFeatures" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtistService\" />
+    <Folder Include="ShowService\" />
+    <Folder Include="TicketService\" />
+    <Folder Include="TourService\" />
+    <Folder Include="VenueService\" />
+    <Folder Include="AgentService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.2.0" />
+  </ItemGroup>
+</Project>

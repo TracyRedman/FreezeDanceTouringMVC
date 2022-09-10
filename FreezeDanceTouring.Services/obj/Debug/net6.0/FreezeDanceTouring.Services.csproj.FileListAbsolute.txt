@@ -1,0 +1,17 @@
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/bin/Debug/net6.0/FreezeDanceTouring.Services.deps.json
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/bin/Debug/net6.0/FreezeDanceTouring.Services.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/bin/Debug/net6.0/FreezeDanceTouring.Services.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/bin/Debug/net6.0/FreezeDanceTouring.Data.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/bin/Debug/net6.0/FreezeDanceTouring.Models.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/bin/Debug/net6.0/FreezeDanceTouring.Data.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/bin/Debug/net6.0/FreezeDanceTouring.Models.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/obj/Debug/net6.0/FreezeDanceTouring.Services.csproj.AssemblyReference.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/obj/Debug/net6.0/FreezeDanceTouring.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/obj/Debug/net6.0/FreezeDanceTouring.Services.AssemblyInfoInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/obj/Debug/net6.0/FreezeDanceTouring.Services.AssemblyInfo.cs
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/obj/Debug/net6.0/FreezeDanceTouring.Services.csproj.CoreCompileInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/obj/Debug/net6.0/FreezeDanceTouring.Services.csproj.CopyComplete
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/obj/Debug/net6.0/FreezeDanceTouring.Services.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/obj/Debug/net6.0/refint/FreezeDanceTouring.Services.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/obj/Debug/net6.0/FreezeDanceTouring.Services.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FreezeDanceTouring.Services/obj/Debug/net6.0/ref/FreezeDanceTouring.Services.dll

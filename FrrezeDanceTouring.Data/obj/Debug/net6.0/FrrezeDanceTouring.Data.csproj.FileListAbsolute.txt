@@ -1,0 +1,12 @@
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/bin/Debug/net6.0/FrrezeDanceTouring.Data.deps.json
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/bin/Debug/net6.0/FrrezeDanceTouring.Data.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/bin/Debug/net6.0/FrrezeDanceTouring.Data.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/obj/Debug/net6.0/FrrezeDanceTouring.Data.csproj.AssemblyReference.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/obj/Debug/net6.0/FrrezeDanceTouring.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/obj/Debug/net6.0/FrrezeDanceTouring.Data.AssemblyInfoInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/obj/Debug/net6.0/FrrezeDanceTouring.Data.AssemblyInfo.cs
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/obj/Debug/net6.0/FrrezeDanceTouring.Data.csproj.CoreCompileInputs.cache
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/obj/Debug/net6.0/FrrezeDanceTouring.Data.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/obj/Debug/net6.0/refint/FrrezeDanceTouring.Data.dll
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/obj/Debug/net6.0/FrrezeDanceTouring.Data.pdb
+/Users/tracyredman/Desktop/ElevenFiftyProjects/144_redBadge/FreezeDanceTouring/FrrezeDanceTouring.Data/obj/Debug/net6.0/ref/FrrezeDanceTouring.Data.dll
